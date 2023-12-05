@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="title">Meu primeiro app dio</string>
+    <string name="description">Esse é meu primeiro projeto da plataforma dio, onde tem o objetivo de alterar a língua do aplicativo.</string>
+    <string-array name="languages">
+        <item>Escolha uma língua</item>
+        <item>Português</item>
+        <item>Inglês</item>
+        <item>Espanhol</item>
+    </string-array>
 </resources>

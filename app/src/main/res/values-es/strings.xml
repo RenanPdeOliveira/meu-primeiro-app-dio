@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimerAppDio</string>
+    <string name="title">Mi primer app dio</string>
+    <string name="description">Este es mi primer proyecto en la plataforma dio, cuyo objetivo es cambiar el idioma de la aplicación.</string>
+    <string-array name="languages">
+        <item>Elige un idioma</item>
+        <item>Portugués</item>
+        <item>Inglés</item>
+        <item>Español</item>
+    </string-array>
+</resources>
